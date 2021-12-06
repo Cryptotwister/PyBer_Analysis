@@ -22,3 +22,9 @@ If we compare the data in our findings, we'll notice that the total fares, rides
 
 Over the time under assessment urban cities generate revenue of above $ 2,000 per week, while the rural cities average around $200 per week. This is a huge difference that definitely needs to be addressed.
 ![Challenge_fare_summary](https://user-images.githubusercontent.com/42978221/144779847-292ffd91-1534-4e51-823a-7bb1d16cc26f.png)
+
+## Recommendations:
+It seems that PyBer needs to focus on its development in rural areas.
+1. Pyber needs to make fares in rural areas more afforable.
+2. Pyber needs more drivers in rural area.
+3. Pyber needs more visibility in rural areas.
