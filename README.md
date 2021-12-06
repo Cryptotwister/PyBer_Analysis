@@ -11,14 +11,16 @@ The analysis and visualizations we produce should help PyBer improve access to r
 2. 36 cities of type Suburban.
 3. 66 cities of type Urban.
 
-##### The Summary of our analysis can be found in the following table below:
+##### The results of our analysis can be found in the following table below:
 ![PyBer Summary DataFrame](https://user-images.githubusercontent.com/42978221/144778157-df85a0b4-f016-40a6-8893-24eca47df3f7.png)
 
+## Summary:
+If we compare the data in our findings, we'll notice that the total fares, rides, and number of drivers in urban cities dominate with big advancement. It is very well represented with the pie charts that we have prepared:
+![Percentage of Total Rides by City Type](https://user-images.githubusercontent.com/42978221/144779266-68b01ea4-6992-4fe2-bb05-f30005b553e4.png)
+![Percentage of Total Fares by City Type](https://user-images.githubusercontent.com/42978221/144779274-b4c9b733-a997-4b81-b4c0-e2633b3ae0e4.png)
+![Percentage of Total Drivers by City Type](https://user-images.githubusercontent.com/42978221/144779284-2cd5e80a-95a3-4063-be7c-dcc8026d8e16.png)
 
 
-If we compare the average number of rides between each city type, we'll notice that the average number of rides in the rural cities is about 3.5 and 2.5 times lower than urban and suburban cities, respectively.
 
-
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 
 Summary:
