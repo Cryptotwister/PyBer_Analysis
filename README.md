@@ -6,11 +6,12 @@ PyBer is a python-based riding app company. We need to create several types of v
 The analysis and visualizations we produce should help PyBer improve access to ride-sharing services and determine affordability for underserved neighborhoods. We present our findings in [PyBer_Challenge.ipnyb](https://github.com/Cryptotwister/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb).
 
 ## Results:
-* There are 120 cities where PyBer estaclishes its operations:
+* There are 120 cities where PyBer establishes its operations:
 1. 18 cities of type Rural.
 2. 36 cities of type Suburban.
 3. 66 cities of type Urban.
-The Summary of our analysis can be found in the following table below:
+
+##### The Summary of our analysis can be found in the following table below:
 ![PyBer Summary DataFrame](https://user-images.githubusercontent.com/42978221/144778157-df85a0b4-f016-40a6-8893-24eca47df3f7.png)
 
 
