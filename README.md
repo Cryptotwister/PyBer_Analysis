@@ -24,7 +24,4 @@ Over the time under assessment urban cities generate revenue of above $ 2,000 pe
 ![Challenge_fare_summary](https://user-images.githubusercontent.com/42978221/144779847-292ffd91-1534-4e51-823a-7bb1d16cc26f.png)
 
 ## Recommendations:
-It seems that PyBer needs to focus on its development in rural areas.
-1. Pyber needs to make fares in rural areas more afforable.
-2. Pyber needs more drivers in rural area.
-3. Pyber needs more visibility in rural areas.
+It seems that PyBer needs to focus on its expansion into rural cities. The number of drivers and rides are very low there, as the result the average fare for the ride is the highest. PyBer needs to be moving towards finding a balance with increasing the number of drivers and decreasing the ride fares, which should leed to the increase in number of rides.
