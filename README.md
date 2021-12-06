@@ -20,7 +20,5 @@ If we compare the data in our findings, we'll notice that the total fares, rides
 ![Percentage of Total Fares by City Type](https://user-images.githubusercontent.com/42978221/144779274-b4c9b733-a997-4b81-b4c0-e2633b3ae0e4.png)
 ![Percentage of Total Drivers by City Type](https://user-images.githubusercontent.com/42978221/144779284-2cd5e80a-95a3-4063-be7c-dcc8026d8e16.png)
 
-
-
-
-Summary:
+Over the time under assessment urban cities generate revenue of above $ 2,000 per week, while the rural cities average around $200 per week. This is a huge difference that definitely needs to be addressed.
+![Challenge_fare_summary](https://user-images.githubusercontent.com/42978221/144779847-292ffd91-1534-4e51-823a-7bb1d16cc26f.png)
